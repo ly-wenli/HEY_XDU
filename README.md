@@ -253,10 +253,14 @@
 ## 2.5. 探囊取物【专业课资料】
 >学长学姐的初心就是帮助更多的想要进入西电的人考上西电，奈何如今西电考研资料被各种考研机构垄断，这些机构的管理者可能都不是西电的学生甚至都不是针对西电的复习内容，例如某果研、某梦，但是作者通过很多渠道，拿到了西电的专业课资料，用于大家复习，其中部分内容因为获得渠道中花了一点资金，而学长我也资金有限，如果大家需要全部资料，可以联系作者或者加群（224709330）。  
 >希望大家支持与传播该github，打压所有欺骗性盈利机构。  
-### [五套精编版数据结构试卷](https://pan.baidu.com/s/11XqJbNJVsxp83Jgg744u8Q)  提取码：7hdt
-### [(2014-2016年)历年真题](https://pan.baidu.com/s/1qW9JE--UDcVxeU6Yso7fMA)  提取码：2dqf
+### [五套精编版数据结构试卷](https://pan.baidu.com/s/11XqJbNJVsxp83Jgg744u8Q)  
+提取码：7hdt
+### [(2014-2016年)历年真题](https://pan.baidu.com/s/1qW9JE--UDcVxeU6Yso7fMA)  
+提取码：2dqf
 ### [2008-2012年期末题（真题来源）](#)   
-### [计算机网络出题人ppt](https://pan.baidu.com/s/1YIf2hpdXz4RCKLSW-IvL7A)   提取码：0ry1
+尚未上传
+### [计算机网络出题人ppt](https://pan.baidu.com/s/1YIf2hpdXz4RCKLSW-IvL7A)   
+提取码：0ry1
 
 
 
