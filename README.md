@@ -25,11 +25,15 @@
        - [2.4.1. 数学](#241-数学)     
        - [2.4.2. 英语](#242-英语)      
        - [2.4.3. 政治](#243-政治)   
-    - [2.5. 探囊取物【专业课资料】](#25-探囊取物专业课资料)
+    - [2.5. 探囊取物【专业课资料】](#25-探囊取物专业课资料)  
+       - [833数据结构考点分析](#833数据结构考点分析)
        - [五套精编版数据结构试卷](#五套精编版数据结构试卷)       
-       - [(2014-2016年)历年真题](#2014-2016年历年真题)       
+       - [833历年真题](#833历年真题)       
        - [2008-2012年期末题（真题来源）](#)
        - [计算机网络出题人ppt](#计算机网络出题人ppt)
+    - [2.6. 细听分说【上岸经验贴】 ](#26-细听分说上岸经验贴)
+     
+
 
 # 1. 关于西电
 ## 1.1. 西电简介
@@ -252,16 +256,29 @@
 
 ## 2.5. 探囊取物【专业课资料】
 >学长学姐的初心就是帮助更多的想要进入西电的人考上西电，奈何如今西电考研资料被各种考研机构垄断，这些机构的管理者可能都不是西电的学生甚至都不是针对西电的复习内容，例如某果研、某梦，但是作者通过很多渠道，拿到了西电的专业课资料，用于大家复习，其中部分内容因为获得渠道中花了一点资金，而学长我也资金有限，如果大家需要全部资料，可以联系作者或者加群（224709330）。  
->希望大家支持与传播该github，打压所有欺骗性盈利机构。  
-### [五套精编版数据结构试卷](https://pan.baidu.com/s/11XqJbNJVsxp83Jgg744u8Q)  
-提取码：7hdt
-### [(2014-2016年)历年真题](https://pan.baidu.com/s/1qW9JE--UDcVxeU6Yso7fMA)  
-提取码：2dqf
-### [2008-2012年期末题（真题来源）](#)   
-尚未上传
-### [计算机网络出题人ppt](https://pan.baidu.com/s/1YIf2hpdXz4RCKLSW-IvL7A)   
-提取码：0ry1
+>希望大家支持与传播该github，打压所有欺骗性盈利机构。 
+### 2.5.1.833数据结构考点分析    
+([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/imges/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%80%83%E7%82%B9%E5%88%86%E6%9E%90.png))
+![833数据结构考点分析](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/imges/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%80%83%E7%82%B9%E5%88%86%E6%9E%90.png)
+### 2.5.2.五套精编版数据结构试卷  
+>这几套数据结构模拟题不是作者在网上随便寻找的，而是根据前面的考点分析一道题一道题整理出来的，其中包括西电真题改编题。请正确使用，杜绝盈利性传播。  
+[模拟题一](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E4%BA%94%E5%A5%97%E7%B2%BE%E7%BC%96%E6%A8%A1%E6%8B%9F%E9%A2%98/%E6%A8%A1%E6%8B%9F%E9%A2%98%E4%B8%80.pdf)  
+[模拟题二](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E4%BA%94%E5%A5%97%E7%B2%BE%E7%BC%96%E6%A8%A1%E6%8B%9F%E9%A2%98/%E6%A8%A1%E6%8B%9F%E9%A2%98%E4%BA%8C.pdf)  
+[模拟题三](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E4%BA%94%E5%A5%97%E7%B2%BE%E7%BC%96%E6%A8%A1%E6%8B%9F%E9%A2%98/%E6%A8%A1%E6%8B%9F%E9%A2%98%E4%B8%89.pdf)  
+[模拟题四](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E4%BA%94%E5%A5%97%E7%B2%BE%E7%BC%96%E6%A8%A1%E6%8B%9F%E9%A2%98/%E6%A8%A1%E6%8B%9F%E9%A2%98%E5%9B%9B.pdf)  
+[模拟题五](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E4%BA%94%E5%A5%97%E7%B2%BE%E7%BC%96%E6%A8%A1%E6%8B%9F%E9%A2%98/%E6%A8%A1%E6%8B%9F%E9%A2%98%E4%BA%94.pdf)
+### 2.5.3.833历年真题  
+[2014年真题](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/833%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2014%E5%B9%B4833%E7%9C%9F%E9%A2%98.pdf)  
+[2015年真题](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/833%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2015%E5%B9%B4833%E7%9C%9F%E9%A2%98.pdf)  
+[2016年真题](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/833%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2016%E5%B9%B4833%E7%9C%9F%E9%A2%98.pdf)  
+[2017年真题](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/833%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2017%E5%B9%B4833%E7%9C%9F%E9%A2%98.pdf)  
+[2018年真题](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/833%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2018%E5%B9%B4833%E7%9C%9F%E9%A2%98.pdf)  
+### 2.5.4.计算机网络出题人ppt   
+[点击下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%87%BA%E9%A2%98%E4%BA%BAPPT/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E9%87%91%E5%BA%93%EF%BC%89.7z)  
 
+## 2.6. 细听分说【上岸经验贴】   
+>[二本学长经验贴](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E7%BB%86%E5%90%AC%E5%88%86%E8%AF%B4/%E4%BA%8C%E6%9C%AC%E5%AD%A6%E9%95%BF%E7%BB%8F%E9%AA%8C%E8%B4%B4.pdf)  
+>[二战学姐考研经验贴](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/%E7%BB%86%E5%90%AC%E5%88%86%E8%AF%B4/%E4%BA%8C%E6%88%98%E5%AD%A6%E5%A7%90%E8%80%83%E7%A0%94%E7%BB%8F%E9%AA%8C%E8%B4%B4.pdf)
 
 
 
