@@ -248,9 +248,9 @@
 ![2019软工学硕初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E5%AD%A6%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
 ### 2.3.2. 网信院
 >说明：网信院官方只公布图片,已更新！  
->PS:因为网信院的计算机技术复试人数比较少，不做单独统计。
-[2019年网信院录取情况](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E7%BD%91%E5%AE%89%E9%99%A2%E5%88%9D%E8%AF%95%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E7%BD%91%E5%AE%89%E9%99%A2%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B51.pdf)   
-2019年网信院初试分数分布情况   
+>PS:因为网信院的计算机技术复试人数比较少，不做单独统计。    
+[2019年网信院录取情况下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E7%BD%91%E5%AE%89%E9%99%A2%E5%88%9D%E8%AF%95%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E7%BD%91%E5%AE%89%E9%99%A2%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B51.pdf)   
+2019年网信院初试分数分布情况（[下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E7%BD%91%E5%AE%89%E9%99%A2%E5%88%9D%E8%AF%95%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E7%BD%91%E5%AE%89%E9%99%A2%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)）              
 ![2019年网信院初试分数分布情况](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E7%BD%91%E5%AE%89%E9%99%A2%E5%88%9D%E8%AF%95%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E7%BD%91%E5%AE%89%E9%99%A2%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
 >**图表说明**    
 >横坐标代表不同的成绩分布区间，每个横坐标表示的范围是它和它前一个分数所表示的区间，对应的纵坐标是该区间对应的人数。例如此图中，横坐标282.1所代表的含义就是小于282.1所占的人数是1人。     
