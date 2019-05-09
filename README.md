@@ -231,21 +231,23 @@
 [2019年计算机院计算机技术录取情况汇总表](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF.pdf)   
 [2019年计算机院软件工程(学)录取情况汇总表](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/%E8%BD%AF%E5%B7%A5%E5%AD%A6%E7%A1%95.pdf)   
 [2019年计算机院软件工程(专)录取情况汇总表](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/%E8%BD%AF%E5%B7%A5%E4%B8%93%E7%A1%95.pdf)   
-> 2019计算机院各专业录取情况统计([下载]())   
-![]()
->2019初试分数分布分析   
->计算机科学与技术（[下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)）   
+> **2019计算机院各专业录取情况统计**([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%80%83%E7%A0%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%BD%95%E5%8F%96%E6%AF%94.png))   
+![2019计算机院各专业录取情况统计](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%80%83%E7%A0%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%BD%95%E5%8F%96%E6%AF%94.png)    
+
+
+>**2019初试分数分布分析**   
+>1.计算机科学与技术（[下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)）   
 ![2019计算机科学与技术初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
 >**图表说明**    
 >横坐标代表不同的成绩分布区间，每个横坐标表示的范围是它和它前一个分数所表示的区间，对应的纵坐标是该区间对应的人数。例如此图中，横坐标292.3所代表的含义就是小于292.3所占的人数是8人。以下图分析类似。  
-> 计算机技术([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png))
+> 2.计算机技术([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png))
 ![2019计算机技术初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
-> 软工专硕([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E4%B8%93%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png))
+> 3.软工专硕([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E4%B8%93%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png))
 ![2019软工专硕初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E4%B8%93%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
-> 软工学硕([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E5%AD%A6%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png))
+> 4.软工学硕([下载](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E5%AD%A6%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png))
 ![2019软工学硕初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E5%AD%A6%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
 ### 2.3.2. 网信院
->说明：网信院官方只公布图片  
+>说明：网信院官方只公布图片,随时更新  
 [2019年网信院录取情况]()  
 ### 2.3.3. 人工智能院
 [2019年人工智能学院全日制硕士研究生第一志愿考生复试结果](http://sai.xidian.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1416541547&wbfileid=2801458)  
