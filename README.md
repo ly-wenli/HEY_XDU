@@ -227,7 +227,14 @@
 ### 2.3.1. 计算机科学与技术院
 [2019年计算机院全日制录取情况情况](https://cs.xidian.edu.cn/uploads/soft/190424/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A22019%E5%B9%B4%E5%85%A8%E6%97%A5%E5%88%B6%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9F%E5%BD%95%E5%8F%96%E5%85%AC%E7%A4%BA.pdf)  
 [2019年计算机院非全日制录取情况情况](https://cs.xidian.edu.cn/uploads/soft/190428/6-1Z42Q50311.xlsx)  
->报录比分析
+>2019初试分数分布分析   
+>计算机科学与技术   
+![2019计算机科学与技术初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
+>**图表说明**    
+>横坐标代表不同的成绩分布区间，每个横坐标表示的范围是它和它前一个分数所表示的区间，对应的纵坐标是该区间对应的人数。例如此图中，横坐标292.3所代表的含义就是小于292.3所占的人数是8人。以下图分析类似。   
+![2019计算机技术初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
+![2019软工专硕初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E4%B8%93%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
+![2019软工学硕初试成绩分布](https://github.com/NicolasErXiaoWang/HEY_XDU/raw/master/2019%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E5%88%9D%E5%A7%8B%E6%83%85%E5%86%B5/2019%E8%A5%BF%E7%94%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E8%BD%AF%E5%B7%A5%E5%AD%A6%E7%A1%95%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
 ### 2.3.2. 网信院
 >说明：网信院官方只公布图片  
 [2019年网信院录取情况]()  
